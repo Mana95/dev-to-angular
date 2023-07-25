@@ -63,7 +63,8 @@
               "browserTarget": "dev-to-app:build:production"
             },
             "development": {
-              "browserTarget": "dev-to-app:build:development"
+              "browserTarget": "dev-to-app:build:development",
+              "disableHostCheck": true
             }
           },
           "defaultConfiguration": "development"
